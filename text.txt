@@ -1,4 +1,8 @@
 sfjldsknf ndskf bidbvjdabv bsdib gfbi b
+<<<<<<< HEAD
 bkjb
 b mj
 mb
+=======
+mn
+>>>>>>> c
